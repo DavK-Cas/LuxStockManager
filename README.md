@@ -1,9 +1,7 @@
 # LuxStockManager
 Proyecto desarrollo C#
 
-Lux Stock Manager
-
-Lux Stock Manager es un sistema de gestión de inventarios desarrollado para la joyería Erimar en El Salvador. Este sistema permite un control eficiente y organizado de los diferentes aspectos de la joyería, incluyendo clientes, empleados, proveedores, productos, ventas y usuarios. Está diseñado para mejorar la gestión de inventarios, reducir errores humanos y optimizar los procesos diarios, brindando una solución robusta y moderna a las microempresas del sector joyero.
+LuxStockManager es un sistema de gestión de inventarios desarrollado para la joyería Erimar en El Salvador. Este sistema permite un control eficiente y organizado de los diferentes aspectos de la joyería, incluyendo clientes, empleados, proveedores, productos, ventas y usuarios. Está diseñado para mejorar la gestión de inventarios, reducir errores humanos y optimizar los procesos diarios, brindando una solución robusta y moderna a las microempresas del sector joyero.
 
 Características Principales
 
