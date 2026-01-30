@@ -1,0 +1,2 @@
+# LuxStockManager
+Proyecto desarrollo C#
