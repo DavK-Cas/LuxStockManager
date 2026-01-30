@@ -1,0 +1,66 @@
+# Archivos generados por Visual Studio
+.vs/
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.opendb
+*.tlog/
+*.tmp/
+*.vscode/
+
+# Directorios generados por el sistema de compilación
+bin/
+obj/
+
+# Archivos de paquetes
+*.nupkg
+packages/
+
+# Archivos de configuración de entorno
+*.env
+
+# Archivos de configuración del usuario
+*.suo
+*.user
+*.userosscache
+*.log
+
+# Configuraciones específicas del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de compilación
+*.tmp
+*.bak
+*.swp
+
+# Configuraciones de herramientas y extensiones
+*.code-workspace
+
+# Archivos generados por herramientas de CI/CD
+*.dockerfile
+*.yml
+*.yaml
+*.gitlab-ci.yml
+*.travis.yml
+
+# Otros archivos generados
+*.dbmdl
+*.dbproj.schemaview
+
+# Archivos de cobertura de código
+coverage/
+*.coverage
+*.coveragexml
+
+# Archivos de informes
+*.report
+
+# Directorios de instalación de paquetes de NuGet
+.nuget/
+
+# Archivos de configuración de Azure DevOps
+*.ado/
